@@ -26,7 +26,7 @@ Key Components and Flow:
     - EKS Nodes host microservices (e.g., foo-service, bar-service), which interact with Vault for secret management with external operator pattern.
 
 # CICD Diagram
-![arc](https://raw.githubusercontent.com/mfisya/indico-tf/refs/heads/master/doc/cicd.png)
+![arc](https://raw.githubusercontent.com/mfisya/indico-tf/refs/heads/main/doc/cicd.png)
 
 ## CI/CD Pipeline Architecture
 
